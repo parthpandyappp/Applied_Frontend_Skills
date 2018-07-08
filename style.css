@@ -1,0 +1,46 @@
+body
+{
+background-image: URL("cap1.jpg");
+background-repeat: no-repeat;
+background-position: center;
+}
+
+.c
+{
+text-align: center;
+font-family: "Times New Roman";
+letter-spacing: 3px;
+font-size: 3.9vw;
+text-shadow: 2.5px 2.5px cyan;
+color: teal;
+font-weight: bold;
+}
+
+
+.d
+{
+text-align: center;
+color: gray;
+letter-spacing: 5px;
+font-size: 2.9vw;
+font-weight: bold;
+}
+
+
+.e
+{
+text-align: left;
+color: PaleVioletRed;
+text-shadow: 1px 1.5px LightGray;
+letter-spacing: 4px;
+font-size: 2vw;
+font-weight: bold;
+}
+
+.f
+{
+text-align: left;
+letter-spacing: 1.6px;
+color: crimson;
+font-size: 1.5vw;
+}
