@@ -24,6 +24,15 @@ color: gray;
 letter-spacing: 5px;
 font-size: 2.9vw;
 font-weight: bold;
+ 
+ background-color: none;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
 
 
