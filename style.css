@@ -31,7 +31,6 @@ font-weight: bold;
 {
 text-align: left;
 color: PaleVioletRed;
-border-style: solid;
 text-shadow: 1px 1.5px LightGray;
 letter-spacing: 4px;
 font-size: 2vw;
@@ -44,7 +43,6 @@ text-align: left;
 letter-spacing: 1.6px;
 color: crimson;
 font-size: 1.5vw;
-border: 1px solid black;
 margin: 25px 50px 75px 100px;
  background-color: none;
 }
