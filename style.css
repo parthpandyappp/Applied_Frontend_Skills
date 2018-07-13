@@ -1,5 +1,5 @@
 .header {
-    background-image: url("c1.jpg");
+    background-color: LightSlateGrey;
     padding: 20px;
     text-align: center;
 }
@@ -11,7 +11,7 @@ font-family: "Times New Roman";
 letter-spacing: 3px;
 font-size: 3.9vw;
 text-shadow: 2.5px 2.5px cyan;
-color: teal;
+color: white;
 font-weight: bold;
 }
 
