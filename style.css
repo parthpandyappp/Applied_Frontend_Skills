@@ -1,12 +1,12 @@
 .header {
-    background-color: LightSlateGrey;
+    background-color: dimgrey;
     padding: 20px;
     text-align: center;
 }
 
 body
 {
-   background-color: Silver; 
+   background-color: LightSlateGrey; 
 }
 .c
 {
