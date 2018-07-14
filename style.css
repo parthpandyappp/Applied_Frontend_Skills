@@ -1,3 +1,5 @@
+/*TO DESIGN HEADER OF THE WEB-PAGE*/
+
 .header 
 {
         background-color: dimgrey;
@@ -6,11 +8,14 @@
 }
 
 
+/*TO ADD BG-COLOR FOR BODY*/
+
 body
 {
         background-color: LightSlateGrey; 
 }
 
+/*TO STYLE MAIN EMPHASISED TOPIC OF THE PROJECT  I.E. PHY...*/
 
 .c
 {
@@ -24,6 +29,7 @@ body
 }
 
 
+/*TO STYLE THE SUB-EMPHASISED TOPIC OF THE PROJECT  I.E. NOTES*/
 
 .d
 {
@@ -36,6 +42,7 @@ body
     
 }
 
+/*TO STYLE SUB-TOPICS OF THE SUB-EMPHASISED TOPIC OF THE PROJECT I.E. ELECRIC DIPOLE..*/
 
 .e
 {
@@ -49,6 +56,7 @@ body
     
 }
 
+/*TO STYLE THE DEFINITION OF SUB-TOPICS OF SUB-EMPHASISED TOPIC OF THE PROJECTED  I.E. DEFINITION*/
 
 .f
 {
@@ -60,6 +68,8 @@ body
         background-color: none;
     
 }
+
+/*TO STYLE THE FOTTER OF THE PROJECT  I.E. MADE WITH LOVE BY PARTH PANDYA*/
 
 p
 {
